@@ -13,7 +13,7 @@
 
 <div align="left">
     <h3>📞 CONTACT</h3>
-    <div style="margin-left:1.5%;">
+    <div style="margin-left:5%;">
         <a href="mailto:fco.esteve.ferre.vicent@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
         <a href="https://www.linkedin.com/in/vicent-esteve-ferre-300546238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitealt='Linkedin'"></a>
     </div>
@@ -22,7 +22,7 @@
 <hr>
 
 <h3>🛠 SKILLS</h3>
-<div style="margin-left:1.5%;">
+<div style="margin-left:5%;">
     <div align="left">
         <h3 aling="center">🖥 Languages</h3>
         <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
