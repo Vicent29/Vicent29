@@ -1,7 +1,7 @@
 <h1 align="center">Vicent Esteve Ferre</h1>
 <hr>
 
-<h3>👨🏻‍💻 ABOUT ME</h3>
+<h3>👨&#x1F1EA;&#x1F1F8;🏻‍💻 ABOUT ME</h3>
 <div>
     <ul>
         <li>📍 <b>Full Name:</b> Vicent Esteve Ferre</li>
