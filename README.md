@@ -5,7 +5,6 @@
 <div>
     <ul>
         <li>📍 <b>Full Name:</b> Vicent Esteve Ferre</li>
-        <li>⏳ <b>Years:</b> I am currently 20 years old</li>
         <li>🌏 <b>City:</b> Bocairent, Valencia(Spain)</li>
         <li>👨🏼‍🎓 <b>Studing:</b> Web Application Development At IES L'Estacio</li>
     </ul>
