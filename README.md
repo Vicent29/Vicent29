@@ -24,7 +24,7 @@
 <h3>🛠 SKILLS</h3>
 <div style="margin-left:5%;">
     <div align="left">
-        <h3 aling="center">🖥 Languages</h3>
+        <h3 aling="center">ㅤ🖥 Languages</h3>
         <h3 style="margin-left: 1%;">ㅤㅤ📌 Frontend</h3>
         <div style="margin-left:2%;">
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
@@ -38,7 +38,7 @@
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
-            <img alt="PHP"
+            <p>ㅤㅤㅤ<img alt="PHP"
                 src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
             <img alt="Java"
                 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -47,11 +47,11 @@
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
                 alt="laravel" />
             <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-                alt="GO" /><br><br>
+                alt="GO" /><br><br></p>
         </div>
     </div>
     <div align="left">
-        <h3 aling="center">📚 Databases</h3>
+        <h3 aling="center">ㅤ📚 Databases</h3>
         <img alt="MySQL"
             src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MYSQL" />
@@ -62,7 +62,7 @@
             alt="MongoDB" />
     </div>
     <div align="left">
-        <h3 aling="center">✏️ Design </h3>
+        <h3 aling="center">ㅤ✏️ Design </h3>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
@@ -72,7 +72,7 @@
         <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
     </div>
     <div align="left">
-        <h3 aling="center">🔧 Development</h3>
+        <h3 aling="center">ㅤ🔧 Development</h3>
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
             alt="GIT" />
         <img alt="GitHub"
@@ -82,7 +82,7 @@
             alt="DOCKER" />
     </div>
     <div align="left">
-        <h3 aling="center">💾 O.S.</h3>
+        <h3 aling="center">ㅤ💾 O.S.</h3>
         <img alt="Windows"
             src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
         <img alt="Linux"
@@ -93,7 +93,7 @@
             src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
     </div>
     <div align="left">
-        <h3 aling="center">⚙️ IDE's</h3>
+        <h3 aling="center">ㅤ⚙️ IDE's</h3>
         <img alt="Visual Studio Code"
             src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
         <img alt="Eclipse"
