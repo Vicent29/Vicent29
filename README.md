@@ -22,10 +22,10 @@
 </div><br>
 <hr>
 <h3>🛠 SKILLS</h3>
-<div style="margin-left:3%;">
+<div style="margin-left:5%;">
     <div align="left">
         <h3 aling="center">🖥 Languages</h3>
-        <h3 style="margin-left: 1%;">📌 Frontend</h3>
+        <h3 style="margin-left: 1%;">ㅤㅤ📌 Frontend</h3>
         <div style="margin-left:2%;">
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
                 alt="jquery" />
@@ -36,7 +36,7 @@
             <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
                 alt="VUE" />
         </div>
-        <h3 style="margin-left: 1%">📌 Backend</h3>
+        <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
             <img alt="PHP"
                 src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
