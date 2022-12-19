@@ -31,9 +31,9 @@
                 alt="jquery" />
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
                 alt="javascript" />
-            <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+            <img src="https://img.shields.io/badge/angular13-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
                 alt="Angular" />
-            <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+            <img src="https://img.shields.io/badge/Vue3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
                  alt="VUE" /></p>
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
