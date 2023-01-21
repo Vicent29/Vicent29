@@ -109,3 +109,5 @@
             height=190>
     </p>
 </a>
+
+![Metrics](/github-metrics.svg)
