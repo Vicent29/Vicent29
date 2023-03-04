@@ -27,7 +27,7 @@
         <h3 aling="center">ㅤ🖥 Languages</h3>
         <h3 style="margin-left: 1%;">ㅤㅤ📌 Frontend</h3>
         <div style="margin-left:2%;">
-            <p>         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+            <p>ㅤㅤㅤㅤ<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                  alt="React" />
              <img src="https://img.shields.io/badge/Vue3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
                  alt="VUE" />
@@ -40,7 +40,7 @@
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
-            <p>         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+            <p>ㅤㅤㅤㅤ<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
                 alt="laravel" />
             <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
                 alt="GO" />
@@ -53,7 +53,7 @@
     </div>
     <div align="left">
         <h3 aling="center">ㅤ📚 Databases</h3>
-        <p>         <img alt="MySQL"
+        <p>ㅤㅤ<img alt="MySQL"
             src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MYSQL" />
         <img alt="MariaDB"
