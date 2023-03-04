@@ -34,7 +34,9 @@
             <img src="https://img.shields.io/badge/angular13-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
                 alt="Angular" />
             <img src="https://img.shields.io/badge/Vue3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-                 alt="VUE" /></p>
+                 alt="VUE" />
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+                 alt="React" /></p>
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
@@ -45,7 +47,9 @@
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
                 alt="laravel" />
             <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-                alt="GO" /><br><br></p>
+                alt="GO" /><br><br>
+            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+                alt="Django" /></p>
         </div>
     </div>
     <div align="left">
