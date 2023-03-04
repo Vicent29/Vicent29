@@ -27,7 +27,7 @@
         <h3 aling="center">ㅤ🖥 Languages</h3>
         <h3 style="margin-left: 1%;">ㅤㅤ📌 Frontend</h3>
         <div style="margin-left:2%;">
-            <p>     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+            <p>         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                  alt="React" />
              <img src="https://img.shields.io/badge/Vue3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
                  alt="VUE" />
@@ -36,12 +36,11 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
                 alt="javascript" />
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-                alt="jquery" />
-           </p>
+                alt="jquery" /></p>
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
-            <p>     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+            <p>         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
                 alt="laravel" />
             <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
                 alt="GO" />
@@ -49,13 +48,12 @@
                 alt="Django" />
             <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
             <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-                alt="express" />
-            </p><br><br>
+                alt="express" /></p><br><br>
         </div>
     </div>
     <div align="left">
         <h3 aling="center">ㅤ📚 Databases</h3>
-        <p>ㅤㅤ <img alt="MySQL"
+        <p>         <img alt="MySQL"
             src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MYSQL" />
         <img alt="MariaDB"
