@@ -66,6 +66,7 @@
         <h3 aling="center">ㅤ✏️ Design </h3>
         <p>ㅤㅤ<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+        <img src="https://img.shields.io/badge/Tailwind-blue.svg?style=for-the-badge&logo=Tailwind&logoColor=white" alt="Tailwind" />   
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
             alt="SASS" /><!--vicent -->
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
