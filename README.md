@@ -48,7 +48,7 @@
                 alt="Django" />
             <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
             <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-                alt="express" /></p><br>
+                alt="express" /></p>
         </div>
     </div>
     <div align="left">
