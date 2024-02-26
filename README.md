@@ -6,7 +6,8 @@
     <ul>
         <li>📍 <b>Full Name:</b> Vicent Esteve Ferre</li>
         <li>🌏 <b>City:</b> Valencia (Spain)</li>
-        <li>👨🏼‍🎓 <b>Studing:</b> Web Application Development At IES L'Estacio</li>
+        <li>👨🏼‍🎓 <b>Studied:</b> Web Application Development At IES L'Estacio</li>
+        <li>🏢 <b>Company:</b> ESET España, Ontinet</li>
     </ul>
 </div>
 
