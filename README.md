@@ -38,6 +38,8 @@
                 alt="javascript" />
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
                 alt="jquery" /></p>
+             <img src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white"
+                alt="odoo" /></p>
         </div>
         <h3 style="margin-left: 1%">ㅤㅤ📌 Backend</h3>
         <div style="margin-left: 2%;">
